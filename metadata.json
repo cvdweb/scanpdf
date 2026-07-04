@@ -1,0 +1,6 @@
+{
+  "name": "ScanPDF",
+  "description": "An elegant, offline-first document scanner and PDF manager that lets you scan pages, apply professional filters, reorder pages, and compile them into high-quality PDFs with ease.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
